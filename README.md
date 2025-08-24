@@ -1,4 +1,4 @@
-# Student Management System
+# ScholarHub
 
 A simple web application using Java Servlet, JSP, JDBC, and MySQL for managing student records.
 
